@@ -1,0 +1,131 @@
+﻿Education, Designation,Experience,Skill1,Skill2,Skill3,JFS
+BTECH,Software Engineer,0,Python,Python,Python,5
+BTECH,Software Engineer,0,Data science,ML,DL,5
+BTECH,Software Engineer,0,Java,XML,JS,6
+BTECH,Software Engineer,1,Javascript,Next.js,React,7
+BTECH,Software Engineer,1,Keras,Tensorflow,ml,8
+BTECH,Software Engineer,1,Java,Fultter,tailwind,8
+BTECH,Software Engineer,1,Java,Fultter,Ruby,8
+BTECH,Software Engineer,1,java,python,analysis,6
+BTECH,Software Engineer,2,HTML/CSS  ,DBMS,"Javascript,",8
+BTECH,Software Engineer,2,java,python,R,7
+BTECH,Software Engineer,2,C++,C,Javascript,7
+BTECH,Software Engineer,2,Ruby,HTML,CSS,6
+BTECH,Software Engineer,2,Java,tensorflow,OOPs,7
+BTECH,Software Engineer,3,HTML/CSS ,"Javascript,",DBMS,6
+BTECH,Software Engineer,3,java,application,python,5
+BTECH,Software Engineer,3,Ruby,CSS,HTML,5
+BTECH,Software Engineer,4,HTML,CSS,"Javascript,",5
+BTECH,Software Engineer,4,C++ ,R,python,6
+BTECH,Software Engineer,4,Ruby,CSS,HTML,6
+BTECH,Software Engineer,5,java,python,pycharm,7
+BTECH,Software Engineer,5,HTML/CSS,DBMS,Javascript,8
+BTECH,Software Engineer,7,java,python,Next.js,8
+BTECH,Software Engineer,7,Ruby,HTML,CSS,8
+BTECH,Software Engineer,7,HTML/CSS ,DBMS,Javascript,8
+BTECH,Software Engineer,10,java,python,sql,8
+BTECH,Software Engineer,10,"C++, ",python, R,8
+BTECH,Software Engineer,10,Java,tensorflow,OOPs,9
+BTECH,Software Engineer,10,R,python,Java,9
+BTECH,Software Engineer,10,HTML,Javascript,CSS,9
+BTECH,Full Stack Developer,0,HTML/CSS ,Javascript,DBMS,5
+BTECH,Full Stack Developer,0,Next.js,python,DBMS,6
+BTECH,Full Stack Developer,0,java,Python,Python,5
+BTECH,Full Stack Developer,1,HTML,ML,DL,5
+BTECH,Full Stack Developer,1,java,XML,JS,5
+BTECH,Full Stack Developer,1,Python,Next.js,React,6
+BTECH,Full Stack Developer,1,Data science,Tensorflow,ml,5
+BTECH,Full Stack Developer,1,Java,Fultter,tailwind,6
+BTECH,Full Stack Developer,2,Javascript,Fultter,Ruby,6
+BTECH,Full Stack Developer,2,Keras,python,analysis,7
+BTECH,Full Stack Developer,2,Java,DBMS,"Javascript,",6
+BTECH,Full Stack Developer,2,Java,python,R,7
+BTECH,Full Stack Developer,2,java,C,Javascript,7
+BTECH,Full Stack Developer,3,HTML/CSS  ,HTML,CSS,7
+BTECH,Full Stack Developer,3,java,tensorflow,OOPs,7
+BTECH,Full Stack Developer,3,C++,"Javascript,",DBMS,7
+BTECH,Full Stack Developer,4,Ruby,application,python,7
+BTECH,Full Stack Developer,4,Java,CSS,HTML,7
+BTECH,Full Stack Developer,4,HTML/CSS ,CSS,"Javascript,",7
+BTECH,Full Stack Developer,5,java,R,python,8
+BTECH,Full Stack Developer,5,Ruby,CSS,HTML,8
+BTECH,Full Stack Developer,7,HTML,python,pycharm,8
+BTECH,Full Stack Developer,7,C++ ,DBMS,Javascript,8
+BTECH,Full Stack Developer,7,Ruby,python,Next.js,9
+BTECH,Full Stack Developer,10,java,HTML,CSS,9
+BTECH,Full Stack Developer,10,HTML/CSS,DBMS,Javascript,9
+BTECH,Full Stack Developer,10,java,python,sql,9
+BTECH,Backend Developer,0,Ruby,python, R,3
+BTECH,Backend Developer,0,HTML/CSS ,tensorflow,OOPs,4
+BTECH,Backend Developer,0,java,python,Java,3
+BTECH,Backend Developer,1,"C++, ",Javascript,CSS,4
+BTECH,Backend Developer,1,Java,Javascript,DBMS,5
+BTECH,Backend Developer,1,R,python,DBMS,5
+BTECH,Backend Developer,1,HTML,Python,Python,5
+BTECH,Backend Developer,2,HTML/CSS ,ML,DL,5
+BTECH,Backend Developer,2,Next.js,XML,JS,6
+BTECH,Backend Developer,2,java,Next.js,React,5
+BTECH,Backend Developer,3,HTML,Tensorflow,ml,5
+BTECH,Backend Developer,3,java,Fultter,tailwind,7
+BTECH,Backend Developer,3,Python,Fultter,Ruby,7
+BTECH,Backend Developer,3,Data science,python,analysis,7
+BTECH,Backend Developer,4,Java,DBMS,"Javascript,",8
+BTECH,Backend Developer,4,Javascript,python,R,7
+BTECH,Backend Developer,4,Keras,C,Javascript,6
+BTECH,Backend Developer,4,Java,HTML,CSS,8
+BTECH,Backend Developer,5,Java,tensorflow,OOPs,8
+BTECH,Backend Developer,5,java,"Javascript,",DBMS,7
+BTECH,Backend Developer,5,HTML/CSS  ,application,python,6
+BTECH,Backend Developer,6,java,CSS,HTML,8
+BTECH,Backend Developer,6,C++,CSS,"Javascript,",8
+BTECH,Backend Developer,6,Ruby,R,python,8
+BTECH,Backend Developer,7,Java,CSS,HTML,8
+BTECH,Backend Developer,7,HTML/CSS ,python,pycharm,8
+BTECH,Backend Developer,8,java,DBMS,Javascript,8
+BTECH,Backend Developer,8,Ruby,python,Next.js,9
+BTECH,Backend Developer,9,HTML,HTML,CSS,9
+BTECH,Backend Developer,9,C++ ,DBMS,Javascript,9
+BTECH,Backend Developer,10,Ruby,python,sql,9
+BTECH,Backend Developer,10,java,python, R,9
+BTECH,Backend Developer,12,HTML/CSS,tensorflow,OOPs,9
+BTECH,Backend Developer,12,java,python,Java,9
+BTECH,Backend Developer,15,Ruby,Javascript,CSS,9
+BTECH,Backend Developer,15,HTML/CSS ,Javascript,DBMS,9
+BTECH,Front End developer,0,java,python,DBMS,5
+BTECH,Front End developer,0,"C++, ",Python,Python,6
+BTECH,Front End developer,0,Java,ML,DL,7
+BTECH,Front End developer,1,R,XML,JS,7
+BTECH,Front End developer,1,HTML,Next.js,React,7
+BTECH,Front End developer,1,HTML/CSS ,Tensorflow,ml,7
+BTECH,Front End developer,1,Next.js,Fultter,tailwind,7
+BTECH,Front End developer,1,java,Fultter,Ruby,7
+BTECH,Front End developer,2,HTML,python,analysis,8
+BTECH,Front End developer,2,java,DBMS,"Javascript,",8
+BTECH,Front End developer,2,Python,python,R,8
+BTECH,Front End developer,2,Data science,C,Javascript,8
+BTECH,Front End developer,2,Java,HTML,CSS,8
+BTECH,Front End developer,3,Javascript,tensorflow,OOPs,8
+BTECH,Front End developer,3,Keras,"Javascript,",DBMS,8
+BTECH,Front End developer,3,Java,application,python,8
+BTECH,Front End developer,4,Java,CSS,HTML,8
+BTECH,Front End developer,4,java,CSS,"Javascript,",8
+BTECH,Front End developer,4,HTML/CSS  ,R,python,9
+BTECH,Front End developer,5,java,CSS,HTML,9
+BTECH,Front End developer,5,C++,python,pycharm,9
+BTECH,Front End developer,7,Ruby,DBMS,Javascript,9
+BTECH,Front End developer,7,Java,python,Next.js,8
+BTECH,Front End developer,7,HTML,HTML,CSS,9
+BTECH,Front End developer,10,HTML/CSS ,DBMS,Javascript,9
+BTECH,Front End developer,10,Next.js,python,sql,6
+BTECH,Front End developer,10,java,python, R,9
+BTECH,Front End developer,10,HTML,tensorflow,OOPs,9
+BTECH,Front End developer,10,java,python,Java,9
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
